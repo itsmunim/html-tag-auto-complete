@@ -1,0 +1,24 @@
+{
+  "name": "html-tag-auto-complete",
+  "main": "./lib/html-tag-auto-complete",
+  "version": "0.0.1",
+  "author": "Munim Dibosh",
+  "description": "A simple auto completion of html tags with class and/or id",
+  "keywords": [
+    "auto-complete",
+    "emmet",
+    "html",
+    "tag auto complete",
+    "tag auto complete with class",
+    "tag auto complete with id",
+    "tag auto complete with class and id"
+  ],
+  "activationCommands": {
+    "atom-workspace": "html-tag-auto-complete:run"
+  },
+  "repository": "https://github.com/atom/html-tag-auto-complete",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
