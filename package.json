@@ -19,7 +19,7 @@
   "activationCommands": {
     "atom-workspace": "html-tag-auto-complete:run"
   },
-  "repository": "https://github.com/dibosh/html-tag-auto-complete",
+  "repository": "git@github.com:dibosh/html-tag-auto-complete.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
