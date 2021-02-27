@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Run HTML Tag AutoComplete",
+        "command": "html-tag-auto-complete:run"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "HTML Tag AutoComplete",
+          "submenu": [
+            {
+              "label": "Run",
+              "command": "html-tag-auto-complete:run"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
