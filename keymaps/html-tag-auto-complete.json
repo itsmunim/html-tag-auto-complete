@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
+  "atom-text-editor": {
     "alt-tab": "html-tag-auto-complete:run"
   }
 }
