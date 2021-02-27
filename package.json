@@ -1,7 +1,7 @@
 {
   "name": "html-tag-auto-complete",
   "main": "./lib/html-tag-auto-complete",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "author": "Munim Dibosh",
   "description": "A simple auto completion of html tags with class and/or id",
   "keywords": [
