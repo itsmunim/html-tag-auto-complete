@@ -28,9 +28,16 @@ or, go to `Preferences > Install` and search for `html-tag-auto-complete`
   {tag-name}#{id}
   {tag-name}.{class-1}.{class-2}
   ```
-  and then press: <kbd>alt</kbd> + <kbd>tab</kbd>
 
-  or, right click and do `Run HTML Tag AutoComplete`.
+  or, the following is also allowed, `div` will be used as tag-
+
+  ```
+  .{class-1}
+  .{class-1}.{class-2}
+  #{id}
+  ```
+
+  Finally, press: <kbd>alt</kbd> + <kbd>tab</kbd> or, right click and do `Run HTML Tag AutoComplete`.
 
   - You will also find it available under `Packages` in menubar.
 

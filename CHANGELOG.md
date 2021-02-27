@@ -10,3 +10,6 @@ string but it will still recognize and generate accordingly
 ## 2.0.2 - Bug fixes and certain improvements
 - If a word has `<` or `>`, it will be ignored when applied e.g. `<table>` will be ignored
 - Can be used in any language file, if it contains html and is applied against a known html tag e.g. `div`, `abbr`
+
+## 2.1.0 - Feature Release
+- Allow class or id to be provided without any tag and the autocompletion will happen with `div` as default tag
